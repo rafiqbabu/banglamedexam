@@ -1,0 +1,37 @@
+
+.src_bsmmu {width:200px; background-color:#088A08; padding:10px; margin-bottom:6px; text-align:center; color:#FFFFFF;}
+.src_bsmmu:hover {background-color:#000000;}
+.src_bsmmu a {color:#FFFFFF;}
+.src_bsmmu a:hover {color:#FFFFFF;}
+
+.src_bcps {width:200px; background-color:#2E64FE; padding:10px; margin-bottom:6px; text-align:center;}
+.src_bcps:hover {background-color:#000000;}
+.src_bcps a {color:#FFFFFF;}
+.src_bcps a:hover {color:#FFFFFF;}
+
+.src_int {width:200px; background-color:#FF4000; padding:10px; margin-bottom:6px; text-align:center;}
+.src_int:hover {background-color:#000000;}
+.src_int a {color:#FFFFFF;}
+.src_int a:hover {color:#FFFFFF;}
+
+.src_bpsc {width:200px; background-color:#FFBF00; padding:10px; margin-bottom:6px; text-align:center;}
+.src_bpsc:hover {background-color:#000000;}
+.src_bpsc a {color:#FFFFFF;}
+.src_bpsc a:hover {color:#FFFFFF;}
+
+.src_other {width:200px; background-color:skyblue; padding:10px; margin-bottom:6px; text-align:center;}
+.src_other:hover {background-color:#000000;}
+.src_other a {color:#FFFFFF;}
+.src_other a:hover {color:#FFFFFF;}
+
+
+#nav { margin: 0; padding: 0; float: left; }
+#nav li { list-style: none; background: #fff; width: 250px; border-bottom: 1px solid #666; }
+#nav li a { display: block; padding: 8px; border-left: 4px solid #444; text-decoration: none; box-shadow: 2px 2px 5px #ccc; color: #555; }
+#nav li a:hover { border-left: 4px solid #069; background: #f8f8f8; }
+#nav li ul { display: none; }
+#nav li:hover ul { display: block; }
+#nav li:hover ul li { background: #333; }
+#nav li:hover ul li a { color: #ccc; }
+#nav li:hover ul li a:hover { background: #222; border-left: 4px solid #900; }
+
